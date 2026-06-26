@@ -1,0 +1,20 @@
+# reverse
+# length
+# upcase
+# downcase
+# swapcase
+# capitalize
+# center
+# ljust
+# rjust
+text = "Please enter a string"
+puts text.reverse
+puts text.length
+puts text.upcase
+puts text.downcase
+puts text.swapcase
+puts text.capitalize
+puts text.center(40)
+puts text.ljust(40)
+puts text.rjust(40)
+puts text
